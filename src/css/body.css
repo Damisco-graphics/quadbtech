@@ -1,0 +1,135 @@
+#bdy {
+  position: relative;
+  right: 0;
+  width: 100%;
+  margin-top: 48px
+}
+
+.Navbar {
+  margin-right: 30px;
+  justify-content: space-evenly;
+}
+
+
+.Crecard .article {
+  height: 100%;
+  position: relative;
+  overflow: visible;
+}
+
+#Crewcard {
+  display: flexbox;
+  flex-direction: row;
+  height: calc(53.29864253393665vh);
+  width: 250px;
+  overflow-wrap: break-word;
+  background-color: white;
+  border-radius: 5%;
+  margin: auto;
+  margin-bottom: 3%;
+  box-shadow: 3px 3.5px #000000;
+}
+
+#summary {
+  margin: auto;
+  height: fit-content;
+  width: 400px;
+  max-width: fit-content;
+  background-color: rgb(248, 248, 106);
+  border-radius: 5%;
+  margin-top: 5%;
+  margin: auto;
+  padding: 25px;
+  padding-right: 30px;
+  text-align: justify;
+}
+.header {
+  font-size: 3rem;
+  width: 100%;
+  font-weight: bolder;
+  color: white;
+  text-align: left;
+  position: absolute;
+  margin: 0% auto auto auto auto;
+  top: 9%;
+  bottom: 0;
+  left: 5%;
+  right: 0;
+  height: fit-content;
+  text-shadow: 5rem;
+}
+
+
+.msubtitle {
+  position: relative;
+  width: 60%;
+  height: 25px;
+  font-family: "IBM Plex Sans";
+  font-style: oblique;
+  margin-left: 5%;
+  font-size: 1.5rem;
+  line-height: 130.17%;
+  left: 3%;
+  color: black;
+  font-weight: bold;
+}
+
+.card-pix,
+.card-pix-top,
+.card-pix-bottom {
+  width: 100%;
+  height: calc(20.33182503770739vh);
+  margin-right: 0;
+  object-fit: cover;
+  -webkit-filter: blur(2px);
+  -moz-filter: blur(2px);
+  -o-filter: blur(2px);
+  -ms-filter: blur(2px);
+  filter: blur(0.5px);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.45) 40%,
+    rgba(0, 0, 0, 0.6) 100%
+  );
+  background-color: white;
+}
+
+.card-pix,
+.card-pix-top {
+  border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px);
+}
+
+.card-pix,
+.card-pix-bottom {
+  border-bottom-right-radius: calc(0.25rem - 1px);
+  border-bottom-left-radius: calc(0.25rem - 1px);
+}
+
+
+
+.newd {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  min-width: fit-content;
+}
+
+
+
+#footer {
+  position: auto;
+  display: flex;
+  min-width: 100%;
+  height: 70px;
+  line-height: 70px;
+  /* margin-top: 0px; */
+  margin-bottom: 0px;
+  bottom: 0px;
+  justify-content: space-between;
+  padding-right: 1%;
+  padding-left: 1%;
+  background-color: grey;
+  color: white;
+  border-top: 2px black solid;
+}
