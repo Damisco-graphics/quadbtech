@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/quadbtech/static/css/main.a670239e.css",
+    "main.js": "/quadbtech/static/js/main.6108e4f2.js",
+    "static/js/787.f0bce196.chunk.js": "/quadbtech/static/js/787.f0bce196.chunk.js",
+    "static/media/instagram_icon.png": "/quadbtech/static/media/instagram_icon.dad1187bbf26fe9d5ba5.png",
+    "static/media/whatsapp_icon.png": "/quadbtech/static/media/whatsapp_icon.ffba9eb3fcd093141629.png",
+    "index.html": "/quadbtech/index.html",
+    "main.a670239e.css.map": "/quadbtech/static/css/main.a670239e.css.map",
+    "main.6108e4f2.js.map": "/quadbtech/static/js/main.6108e4f2.js.map",
+    "787.f0bce196.chunk.js.map": "/quadbtech/static/js/787.f0bce196.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a670239e.css",
+    "static/js/main.6108e4f2.js"
+  ]
+}
